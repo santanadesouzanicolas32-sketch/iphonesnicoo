@@ -3,7 +3,7 @@
 <p align="center">Vitrine de iPhones premium em São Paulo</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/iphonesnicoo/"><strong>🌐 Ver projeto online</strong></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/nicoo-store/"><strong>🌐 Ver projeto online</strong></a>
 </p>
 
 ---
@@ -29,8 +29,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/iphonesnicoo.git
-cd iphonesnicoo
+git clone https://github.com/santanadesouzanicolas32-sketch/nicoo-store.git
+cd nicoo-store
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
